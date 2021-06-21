@@ -1,3 +1,5 @@
 # Tarjeta-CV-Spidey 
 
-Hecha con HTML y CSS básico, todo esta dentro del Index.html . No es un diseño responsive, solo compatible con el Escritorio.
+Hecho con HTML y CSS muyy básico. Este fue uno de mis primeros ejercicios de mi estudio FrontEnd, y quise elegir a Spidey para representarlo :P
+
+No es un diseño responsive, solo es compatible con el Escritorio.
